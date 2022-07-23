@@ -8,10 +8,10 @@
 
 <p>
   <a href="https://blog.welain.com/" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-ahdark.com-%231D7EA7.svg?logo=wordpress&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-Youwen-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a> 
   <a href="https://github.com/Youwenqwq" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-AHdark-%2312100E.svg?logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-Youwen-%2312100E.svg?logo=Github&logoColor=white" />
   </a> 
 </p>
 
