@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://blog.welain.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/Youwenqwq/Youwenqwq/head.jpeg" width="150" /></a>
+  <a href="https://blog.welain.com/" alt="logo" ><img src="https://cdn.jsdelivr.net/gh/Youwenqwq/JsDelivr-CDN/img/basic/round.png" width="150" /></a>
   <br><br>
   Youwenqwq
   <br><br>
@@ -20,9 +20,8 @@
 ## Introduction
 
 - 👋 Hi, I’m [@Youwen](https://blog.welain.com)
-- 🎮 A Rhythm Music Games player, now playing Phigros, KALPA and more.
-- 📚 Learning C now, just a beginner.
-- 🦜 Contact me by Telegram @Youwen or Email youwenqwq@gmail.com
+- 📚 Learning programming now, just a beginner.
+- 🦜 Contact me via Email youwenqwq@gmail.com
 
 # Stats
 
